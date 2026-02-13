@@ -1,4 +1,4 @@
-Project Summary
+Project Summary :- 
  I analyzed household data using Python.
  I identified numerical and categorical data.
  I calculated mean, median, and mode for income and age.
